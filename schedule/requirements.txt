@@ -1,0 +1,11 @@
+requests
+bs4
+pandas
+#selenium==3.141.0
+#chromedriver-binary==84.0.4147.30
+constants
+google-cloud-storage
+google-cloud-bigquery
+lxml
+flask
+datetime
